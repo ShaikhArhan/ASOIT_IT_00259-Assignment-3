@@ -1,0 +1,5 @@
+1). You have to install Tomcat server and connect with curd
+2). You need to create curd
+3). To stored data you need to create table in mySql
+4). Create schemas with same name used in form input name.
+
